@@ -1,0 +1,10 @@
+body{
+    background: darkslategray;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.title-header{
+    font-size:72px;
+    text-align: center;
+}
