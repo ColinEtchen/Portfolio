@@ -65,7 +65,7 @@
 /*home section styling*/
 .home{
     display: flex;
-    background:url("/Users/colin/bootcamp/Portfolio/assets/Images/IMG_1778.jpg") no-repeat right;
+    background:url("Images/IMG_1778.jpg") no-repeat right;
     height: 100vh;
     color:white;
     min-height: 500px;
