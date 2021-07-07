@@ -170,6 +170,11 @@ h1{
     text-decoration: underline;
 }
 
+/*Footer Styling*/
+footer{
+    text-align: center;
+}
+
 
 /*responsive media query start*/
 @media (max-width: 500px){
